@@ -1,6 +1,6 @@
  <h1>Film Sitesi </h1>
 
- Bu projede bir film sitesi projesi tasarlanmıştır. Kullanıcı isteği filmi seçebilmektedir.
+ Bu projede bir film sitesi projesi tasarlanmıştır. Kullanıcı istediği filmi seçebilmektedir.
 
   <h2> Kullanılan Teknolojiler </h2>
 
