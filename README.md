@@ -6,4 +6,6 @@
 
   HTML,CSS,JS ile kodlanmıştır
 
+   <h2> Ekran Görüntüsü  </h2>
+
   ![](film%20gif.gif)
